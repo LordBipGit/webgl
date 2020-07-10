@@ -1,0 +1,42 @@
+#start {
+	width: 120px;
+	height: 60px;
+	margin-top: -590px;
+	margin-left: 10px;
+	position: absolute;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	background-color: lightgray;
+	border: none;
+}
+
+#skip {
+	width: 120px;
+	height: 60px;
+	margin-top: -590px;
+	margin-left: 10px;
+	position: absolute;
+	visibility: hidden;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	background-color: white;
+	border: none;
+}
+
+#gameContainer {
+	width: 960px; 
+	height: 600px; 
+	margin: auto; 
+	visibility: hidden;
+}
+
+#video {
+	width: 960px;
+	height: 600px; 
+	visibility: hidden; 
+	margin-top: -600px; 
+	position: absolute; 
+	background-color: white;
+}
