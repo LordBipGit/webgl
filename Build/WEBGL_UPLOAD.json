@@ -1,0 +1,15 @@
+{
+"companyName": "Linkko",
+"productName": "Skillifyi",
+"productVersion": "1.0",
+"dataUrl": "WEBGL_UPLOAD.data.unityweb",
+"wasmCodeUrl": "WEBGL_UPLOAD.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEBGL_UPLOAD.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
