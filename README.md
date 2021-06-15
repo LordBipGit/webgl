@@ -1,5 +1,5 @@
 # NFTARCADE
->> https://nft64.github.io/NFTARCADE/ <<
+--> https://nft64.github.io/NFTARCADE/  <--
 
 A NFT Gallery proposal.  Accessible on all platforms powered by the Unity Video Game Engine.
 
