@@ -1,4 +1,4 @@
-# NFTARCADE
+# NFTARCADE  pre-alpha
 --> https://nft64.github.io/NFTARCADE/  <--
 
 A NFT Gallery bridged for all platforms powered by the Unity Video Game Engine.
