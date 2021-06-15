@@ -10,3 +10,4 @@ Iphone and Android: One finger gesture to rotate & 2 fingers to aim. (Extremly e
 
 
 Inncomplete:  Image slideshow viewer for NFTs  (img, gif + video)
+Temporary file link to AR models iOS + Android. (WebAR to be added in Phase 1)
