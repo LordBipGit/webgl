@@ -22,6 +22,7 @@ Impliment direct AR
 ---------------
 **Phase 2 requests:**
 Create Shopfront for Artists be able to buy from vending machine. 
+<b>
 Marketplace Links.
 Price and quantity of NFT visible by number or stacked behind each other.
 Curated Arcade room.
