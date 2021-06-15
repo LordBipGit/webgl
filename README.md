@@ -1,4 +1,4 @@
-# NFTARCADE  pre-alpha [LAUNCH LINK BELOW]
+# NFT ARCADE  pre-alpha [LAUNCH LINK BELOW]
 --> https://nft64.github.io/NFTARCADE/  <--
 
 A NFT Gallery manifested in a familiar physical arcade machine.
