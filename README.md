@@ -1,7 +1,7 @@
 # NFTARCADE  pre-alpha
 --> https://nft64.github.io/NFTARCADE/  <--
 
-A NFT Gallery bridged for all platforms powered by the Unity Video Game Engine.
+A physical based NFT Gallery for the camera and AR metaverse for all platforms powered by the Unity Video Game Engine.
 
 Twitter Profile picture+info and NFT images all load at realtime from ipfs urls!
 
